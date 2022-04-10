@@ -12,7 +12,7 @@ class Main {
 
       double moonWeight = (earthweight/earthGravity) * moonForcegravity;
 
-      System.out.print(earthweight + " peso terrestre, pesarías en la luna " + moonWeight);
+      System.out.print(earthweight + " es tu peso terrestre, por lo que pesarías en la luna " + moonWeight);
       
     }
 }
